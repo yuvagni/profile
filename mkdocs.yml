@@ -1,0 +1,5 @@
+site_name: Yuvagni
+
+nav:
+  - home: index.md
+  - about: about.md
